@@ -15,5 +15,15 @@
 * Use **active voice** instead of passive voice. 
 * Be bold -- be active.
 * passive verb = form of be + past participle verb
+* Choose strong verbs.
+Weak verbs include:
+* Forms of *be* (*is*, *are*, *am*, *was*, *were*, etc.)
+* *occur*
+* *happen*
+* Reduce *there is*/*there are*.
+* Refactor amorphous adverbs and adjectives into objective numerical information.
+* Each sentence focuses on a single idea, thought, or concept.
+* The conjunction *or* in a long sentence usually signals the possibility to refactor the sentence into a bulleted or numbered list.
+
 
 * Keep sentences under *25 words* whenever possible.
